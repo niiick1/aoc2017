@@ -1,0 +1,15 @@
+{
+  "name": "niiick1-aoc2017",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./**/*.test.js --reporter spec"
+  },
+  "author": "Nícolas Nunes <nicolas.nunes@sap.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
